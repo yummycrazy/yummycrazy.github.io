@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    var URL = "1gjSO6dzKyucIQMkM3yo4DfZf7tSPOCfZ4wSMP5NInlU"
+    var URL = "130GHQFZlPyO9zqfoa4l_GDyEIJwxpPBj16eE772dvqk"
     Tabletop.init({ key: URL, callback: showInfo, simpleSheet: true })
 })
 
