@@ -30,8 +30,8 @@
 .row img{
     background-repeat:no-repeat;
     background-position:top center;
-    background-size:cover;
-    background-color:#efefef;
+    background-size: contain;
+    background-color: white;
 }
 
 
